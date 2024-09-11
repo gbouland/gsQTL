@@ -1,0 +1,15 @@
+Package: gsQTL
+Title: gene set QTLs
+Version: 0.1.0
+Authors@R: 
+    person("Gerard", "Bouland", , "g.a.bouland@tudelft.nl", role = c("aut", "cre"))
+Description: Combines genes from a gene set in a single feature for further 
+statitical analyses.
+License: GPL-3
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Depends:
+  R (>= 4.2.2)
+Imports:  
+  kernlab(>= 0.9)
